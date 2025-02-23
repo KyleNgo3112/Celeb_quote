@@ -4,8 +4,8 @@ import smtplib
 import time
 
 now = datetime.datetime.now()
-my_email = "kngo673@auckland.uni.ac.nz"
-sender_email = "kylengo3202@gmail.com"
+my_email = "deeeaasdj.nz"
+sender_email = "teajs@gmail.com"
 password = "svxobvfitnmjxcun"
 
 MY_LAT = -36.848461 # Your latitude
